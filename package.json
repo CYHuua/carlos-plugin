@@ -1,0 +1,19 @@
+{
+  "name": "carlos-plugin",
+  "version": "1.0.0",
+  "description": "一个简单的插件",
+  "main": "carlosPlugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CYHuua/carlos-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CYHuua/carlos-plugin/issues"
+  }
+}
